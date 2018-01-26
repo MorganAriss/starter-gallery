@@ -31,7 +31,8 @@ Release Date: Jul 26, 2027
 -    models
 
     -    Images (Vafa) 
- 
+
+
 ## Updated Components
 
 -   controllers
@@ -43,6 +44,7 @@ Release Date: Jul 26, 2027
     -   Gallery (Vafa)
 	
     -	Template (Morgan)
+
 
 -   views
 
@@ -59,3 +61,4 @@ Release Date: Jul 26, 2027
     -   database (Vafa)
 
     -   autoload (Vafa)
+

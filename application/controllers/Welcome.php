@@ -2,6 +2,7 @@
 defined('BASEPATH') OR exit('No direct script access allowed');
 class Welcome extends Application
 {
+
 	/**
 	 * Index Page for this controller.
 	 *
@@ -36,3 +37,4 @@ class Welcome extends Application
 		$this->render();
 	}
 }
+
