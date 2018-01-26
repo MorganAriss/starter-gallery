@@ -1,10 +1,10 @@
 #Change Log
 
-Team membership:  AB (Captain) & CD (Mate)  
+Team membership:  Morgan (Captain) & Vafa (Mate)  
 Team conventions: Allman notation, markdown for changelog  
 Changelog format: [Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) 
 
-## *Version x.x*
+## *Version 0.2 *
 
 Release Date: Jul 26, 2027
 
@@ -12,22 +12,50 @@ Release Date: Jul 26, 2027
 
 -   controllers
 
-    -   serbian (AB)
-    
+    -   About (vafa)
+
+    -   Welcome (vafa)
+
+    -   Gallery (vafa)
+
+-   views
+
+    -   About (vafa)
+
+    -   Welcome (vafa)
+
+    -   Gallery (vafa)
+
+    -   _cell (Vafa)  
+
+-    models
+
+    -    Images (Vafa) 
+ 
 ## Updated Components
 
 -   controllers
 
-    -   german (CD)
-    -   hindi (CD)
+    -   About (Morgan)
 
--   models
+    -   Welcome (Vafa)
 
-    -   italian (AB)
+    -   Gallery (Vafa)
+	
+    -	Template (Morgan)
 
 -   views
 
-    -   slovenian (AB)
-    -   swedish
+    -   About (Morgan)
 
+    -   Welcome (Vafa)
 
+    -   Gallery (Vafa)  
+	
+    -	Template (Morgan)
+
+-   config
+
+    -   database (Vafa)
+
+    -   autoload (Vafa)
