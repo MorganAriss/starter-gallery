@@ -24,26 +24,41 @@ Release Date: Jul 26, 2027
 
     -   Welcome (vafa)
 
-    -   Gallery (vafa)   
- 
+    -   Gallery (vafa)
+
+    -   _cell (Vafa)  
+
+-    models
+
+    -    Images (Vafa) 
+
+
 ## Updated Components
 
 -   controllers
 
     -   About (Morgan)
 
-    -   Welcome (Morgan)
+    -   Welcome (Vafa)
 
-    -   Gallery (Morgan)
+    -   Gallery (Vafa)
 	
-	-	Template (Morgan)
+    -	Template (Morgan)
+
 
 -   views
 
     -   About (Morgan)
 
-    -   Welcome (Morgan)
+    -   Welcome (Vafa)
 
-    -   Gallery (Morgan)  
+    -   Gallery (Vafa)  
 	
-	-	Template (Morgan)
+    -	Template (Morgan)
+
+-   config
+
+    -   database (Vafa)
+
+    -   autoload (Vafa)
+
